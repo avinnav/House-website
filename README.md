@@ -71,4 +71,4 @@ Access the application at http://localhost:3000 in your web browser.
 
 
 ## Contact
-For any inquiries or support, please contact us at vikashvermacom92@gmail.com.
+For any inquiries or support, please contact us at abhinavgupta4020@gmail.com
